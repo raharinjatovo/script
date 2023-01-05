@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "csv": "^6.2.5",
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "fd": "^0.0.3",
+    "fs": "^0.0.1-security",
+    "get-stream": "^6.0.1",
+    "mysql": "^2.18.1",
+    "utl": "^0.0.1"
+  }
+}
